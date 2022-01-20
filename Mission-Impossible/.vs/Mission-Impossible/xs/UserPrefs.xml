@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BC04C03D-DF01-4DC7-B1D2-E5DE4147159B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mission-Impossible PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission-Impossible/Startup.cs">
+    <Files>
+      <File FileName="Mission-Impossible/wwwroot/index.html" Line="39" Column="19" />
+      <File FileName="Mission-Impossible/Program.cs" Line="1" Column="1" />
+      <File FileName="Mission-Impossible/Startup.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission-Impossible" expanded="True">
+            <Node name="Mission-Impossible" expanded="True">
+              <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
