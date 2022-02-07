@@ -16,3 +16,39 @@
 /Users/marktrammell/Desktop/IS Core/413/Mission-Impossible/Mission-Impossible/obj/Debug/netcoreapp3.1/Mission-Impossible.dll
 /Users/marktrammell/Desktop/IS Core/413/Mission-Impossible/Mission-Impossible/obj/Debug/netcoreapp3.1/Mission-Impossible.pdb
 /Users/marktrammell/Desktop/IS Core/413/Mission-Impossible/Mission-Impossible/obj/Debug/netcoreapp3.1/Mission-Impossible.genruntimeconfig.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.exe
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.deps.json
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.runtimeconfig.json
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.runtimeconfig.dev.json
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.dll
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.pdb
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.csproj.AssemblyReference.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.AssemblyInfoInputs.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.AssemblyInfo.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.csproj.CoreCompileInputs.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\staticwebassets\Mission-Impossible.StaticWebAssets.Manifest.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\staticwebassets\Mission-Impossible.StaticWebAssets.xml
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mission-Impossible.styles.css
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.RazorTargetAssemblyInfo.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.dll
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.pdb
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.genruntimeconfig.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.Views.dll
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\bin\Debug\netcoreapp3.1\Mission-Impossible.Views.pdb
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.RazorAssemblyInfo.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.RazorAssemblyInfo.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.TagHelpers.input.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.TagHelpers.output.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.RazorCoreGenerate.cache
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Razor\Views\Blah\Index.cshtml.g.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.RazorTargetAssemblyInfo.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.Views.pdb
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Mission-Impossible.csproj.CopyComplete
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marktrammell\Source\Repos\413-Git\Mission-Impossible\Mission-Impossible\obj\Debug\netcoreapp3.1\Razor\Views\Blah\GradeCalculator.cshtml.g.cs
